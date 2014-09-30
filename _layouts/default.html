@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+	  
+	  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="row">
+            <div class="col-md-12">
+ 		    <div class="col-md-8">
+    			    {{ content }}
+		    </div>
+                    <div class="col-md-4">
+                        <div class="module">
+    			    {% include sidebar.html %}
+		        </div>
+  		    </div>
+                    <div class="col-md-4">
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/carsdotcomtech" data-widget-id="511042302274322432">Tweets by @carsdotcomtech</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    </div>
+                    <div class="col-md-4">
+			    <div class="module">
+				      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+		    		<!--div class="fb-like-box" data-href="https://www.facebook.com/pages/Carscom-Technology/568114669984625" data-width="calc(85% - (#{$spacing-unit} * 2)" data-height="400" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="true" data-show-border="false"></div-->
+			</div>
+	    </div>
+	    </div>
+	</div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
