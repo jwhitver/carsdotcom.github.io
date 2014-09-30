@@ -4,7 +4,7 @@ email: carsdotcomtech@cars.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the Cars.com Tech blog.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://carsdotcomtech.github.io"  # the base hostname & protocol for your site
+url: "http://tech.cars.com"  # the base hostname & protocol for your site
 twitter_username: carsdotcomtech
 github_username:  carsdotcomtech
 
