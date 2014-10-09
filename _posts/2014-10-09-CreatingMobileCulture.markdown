@@ -4,7 +4,7 @@ title:  "Creating a Mobile Culture at Cars.com"
 date:   2014-10-09   11:32:42
 ---
 
-by Allison Wessel, Product Manager – Mobile Apps 
+by Allison Wessel, Product Manager - Mobile Apps 
 edited by John Matthews, Android Developer - Mobile Apps
 
 There's a new bar at Cars.com. Unlike the local Bar, this Bar does not serve any liquid refreshments. This bar is the "Cars.comDevice Bar", and in place of beer taps, it has the latest phone and tablet devices.
