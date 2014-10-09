@@ -4,10 +4,10 @@ title:  "Creating a Mobile Culture at Cars.com"
 date:   2014-10-09   11:32:42
 ---
 
-by Allison Wessel, Product Manager - Mobile Apps 
-edited by John Matthews, Android Developer - Mobile Apps
+by Allison Wessel, Product Manager, Mobile Apps 
+edited by John Matthews, Android Developer, Mobile Apps
 
-There's a new bar at Cars.com. Unlike the local Bar, this Bar does not serve any liquid refreshments. This bar is the "Cars.comDevice Bar", and in place of beer taps, it has the latest phone and tablet devices.
+There is a new bar at Cars.com. Unlike the local Bar, this Bar does not serve any liquid refreshments. This bar is the "Cars.comDevice Bar", and in place of beer taps, it has the latest phone and tablet devices.
 
 The Bar is one of the first steps that Cars is taking to create a broader mobile culture. While Cars.com was truly a mobile first-mover in the third party automotive space, we have historically compartmentalized any mobile work into mobile-specific teams. However, times have changed and mobile now makes up over HALF of our overall traffic! Clearly, we can't just "check the box" that we have a mobile presence. To succeed in this new omni-channel world, Cars.com has to consider mobile in every feature, product, and strategy. And it's not just people with "Mobile" in their title that need to think of Mobile, it's all of us.
 
