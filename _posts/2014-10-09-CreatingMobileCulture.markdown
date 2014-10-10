@@ -11,19 +11,19 @@ date:   2014-10-09   11:32:42
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The Device Bar at Cars.com is meant to facilitate a more mobile culture internally.  Just as most of us feel perfectly comfortable using any Internet browser, we need to know how to use mobile devices other than the ones that we own for personal use.  This means that even Apple "fan-boys" need to get familiar with Android, and those like me that think the size of an iPad Mini is just silly, still need to know how it feels to hold and use one.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;In addition to providing the organization broader access to more mobile devices, the Device Bar was also designed to consciously solve pain points that the mobile teams have been battling when testing across devices. For example:</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**_Devices were never charged, and never had a charger to go with them._**
+&nbsp;&nbsp;&nbsp;&nbsp;*Devices were never charged, and never had a charger to go with them.*
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Devices on the bar and available for check-out are always plugged in and fully charged.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**_Devices were getting lost or damaged._**
+&nbsp;&nbsp;&nbsp;&nbsp;*Devices were getting lost or damaged.*
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Devices are locked to the bar via a cable so you can still use them naturally in your hand (vs. a kiosk).  User can also check out devices for use at their desks.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**_Devices often could not download test apps or access development networks._**
+&nbsp;&nbsp;&nbsp;&nbsp;*Devices often could not download test apps or access development networks.*
  
 <p>&nbsp;&nbsp;&nbsp;&nbsp;All devices have iTunes and Google Play accounts for downloading apps, are linked up to our testing distribution software to install our test apps, and have access to the network.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**_You had to individually check multiple devices to test the Mobile Website._**
+&nbsp;&nbsp;&nbsp;&nbsp;*You had to individually check multiple devices to test the Mobile Website.*
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The Device Bar uses "Ghost Lab", which automatically displays the same URL across all of the devices! You can even scroll on one device and see it scroll instantaneously on all of them.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Having access to these devices is just the first step to creating a mobile culture at Cars.com. We hope it inspires conversations about how each feature, button, or advertisement will appear and feel to our mobile users, no matter their device. The more we use mobile, the more it will become second nature to us, and the more Cars.com will become celebrated for its mobile friendliness.  Cars.com employees can now come to the Bar and give it a try for testing or just get familiar with what the Mobile Applications Team is up to.</p>
