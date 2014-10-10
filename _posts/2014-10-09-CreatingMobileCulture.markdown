@@ -14,21 +14,21 @@ The Device Bar at Cars.com is meant to facilitate a more mobile culture internal
 
 In addition to providing the organization broader access to more mobile devices, the Device Bar was also designed to consciously solve pain points that the mobile teams have been battling when testing across devices. 
 
-**Devices were never charged, and never had a charger to go with them**
+- **Devices were never charged, and never had a charger to go with them**
 
-Devices on the bar and available for check-out are always plugged in and fully charged.
+> Devices on the bar and available for check-out are always plugged in and fully charged.
 
-**Devices were getting lost or damaged**
+- **Devices were getting lost or damaged**
 
-Devices are locked to the bar via a cable so you can still use them naturally in your hand (vs. a kiosk).  User can also check out devices for use at their desks.
+> Devices are locked to the bar via a cable so you can still use them naturally in your hand (vs. a kiosk).  User can also check out devices for use at their desks.
 
-**Devices often could not download test apps or access development networks.**
+- **Devices often could not download test apps or access development networks.**
  
-All devices have iTunes and Google Play accounts for downloading apps, are linked up to our testing distribution software to install our test apps, and have access to the network.
+> All devices have iTunes and Google Play accounts for downloading apps, are linked up to our testing distribution software to install our test apps, and have access to the network.
 
-**You had to individually check multiple devices to test the Mobile Website.**
+- **You had to individually check multiple devices to test the Mobile Website.**
 
-The Device Bar uses "Ghost Lab", which automatically displays the same URL across all of the devices! You can even scroll on one device and see it scroll instantaneously on all of them.
+> The Device Bar uses "Ghost Lab", which automatically displays the same URL across all of the devices! You can even scroll on one device and see it scroll instantaneously on all of them.
 
 ### Evolving our Mobile Culture
 
