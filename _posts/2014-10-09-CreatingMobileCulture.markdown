@@ -6,9 +6,8 @@ date:   2014-10-09   11:32:42
 
 *by Allison Wessel, Product Manager, Mobile Apps<BR>edited by John Matthews, Android Developer, Mobile Apps*
 
-<pre>     There is a new bar at Cars.com. Unlike the local Bar, this Bar does not serve any liquid refreshments. This bar is the "Cars.com Device Bar", and in place of beer taps, it has the latest phone and tablet devices.</pre>
-
-The Bar is one of the first steps that Cars is taking to create a broader mobile culture. While Cars.com was truly a mobile first-mover in the third party automotive space, we have historically compartmentalized any mobile work into mobile-specific teams. However, times have changed and mobile now makes up over HALF of our overall traffic! Clearly, we can't just "check the box" that we have a mobile presence. To succeed in this new omni-channel world, Cars.com has to consider mobile in every feature, product, and strategy. And it's not just people with "Mobile" in their title that need to think of Mobile, *it's all of us*.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;.There is a new bar at Cars.com. Unlike the local Bar, this Bar does not serve any liquid refreshments. This bar is the "Cars.com Device Bar", and in place of beer taps, it has the latest phone and tablet devices.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;.The Bar is one of the first steps that Cars is taking to create a broader mobile culture. While Cars.com was truly a mobile first-mover in the third party automotive space, we have historically compartmentalized any mobile work into mobile-specific teams. However, times have changed and mobile now makes up over HALF of our overall traffic! Clearly, we can't just "check the box" that we have a mobile presence. To succeed in this new omni-channel world, Cars.com has to consider mobile in every feature, product, and strategy. And it's not just people with "Mobile" in their title that need to think of Mobile, *it's all of us*.</p>
 
 The Device Bar at Cars.com is meant to facilitate a more mobile culture internally.  Just as most of us feel perfectly comfortable using any Internet browser, we need to know how to use mobile devices other than the ones that we own for personal use.  This means that even Apple "fan-boys" need to get familiar with Android, and those like me that think the size of an iPad Mini is just silly, still need to know how it feels to hold and use one.
 
