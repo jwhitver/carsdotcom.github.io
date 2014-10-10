@@ -11,7 +11,7 @@ date:   2014-10-09   11:32:42
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The Device Bar at Cars.com is meant to facilitate a more mobile culture internally.  Just as most of us feel perfectly comfortable using any Internet browser, we need to know how to use mobile devices other than the ones that we own for personal use.  This means that even Apple "fan-boys" need to get familiar with Android, and those like me that think the size of an iPad Mini is just silly, still need to know how it feels to hold and use one.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;In addition to providing the organization broader access to more mobile devices, the Device Bar was also designed to consciously solve pain points that the mobile teams have been battling when testing across devices. For example:</p>
 
-*Devices were never charged, and never had a charger to go with them.*
+&nbsp;&nbsp;&nbsp;&nbsp;_Devices were never charged, and never had a charger to go with them._**
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Devices on the bar and available for check-out are always plugged in and fully charged.</p>
 
