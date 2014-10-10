@@ -18,17 +18,21 @@ In addition to providing the organization broader access to more mobile devices,
 
 > Devices on the bar and available for check-out are always plugged in and fully charged.
 
+
 **Devices were getting lost or damaged**
 
 > Devices are locked to the bar via a cable so you can still use them naturally in your hand (vs. a kiosk).  User can also check out devices for use at their desks.
+
 
 **Devices often could not download test apps or access development networks.**
  
 > All devices have iTunes and Google Play accounts for downloading apps, are linked up to our testing distribution software to install our test apps, and have access to the network.
 
+
 **You had to individually check multiple devices to test the Mobile Website.**
 
 > The Device Bar uses "Ghost Lab", which automatically displays the same URL across all of the devices! You can even scroll on one device and see it scroll instantaneously on all of them.
+
 
 ### Evolving our Mobile Culture
 
