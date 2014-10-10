@@ -14,7 +14,7 @@ The Device Bar at Cars.com is meant to facilitate a more mobile culture internal
 
 In addition to providing the organization broader access to more mobile devices, the Device Bar was also designed to consciously solve pain points that the mobile teams have been battling when testing across devices. 
 
-**Devices were never charged, and never had a charger to go with them**
+##### Devices were never charged, and never had a charger to go with them
 
 > Devices on the bar and available for check-out are always plugged in and fully charged.
 
