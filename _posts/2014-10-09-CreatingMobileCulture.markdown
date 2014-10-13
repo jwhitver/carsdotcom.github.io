@@ -10,6 +10,8 @@ There is a new bar at Cars.com. Unlike the local Bar, this Bar does not serve an
 
 The Bar is one of the first steps that Cars is taking to create a broader mobile culture. While Cars.com was truly a mobile first-mover in the third party automotive space, we have historically compartmentalized any mobile work into mobile-specific teams. However, times have changed and mobile now makes up over HALF of our overall traffic! Clearly, we can't just "check the box" that we have a mobile presence. To succeed in this new omni-channel world, Cars.com has to consider mobile in every feature, product, and strategy. And it's not just people with "Mobile" in their title that need to think of Mobile, *it's all of us*.
 
+![Device Bar][deviceBar]
+
 The Device Bar at Cars.com is meant to facilitate a more mobile culture internally.  Just as most of us feel perfectly comfortable using any Internet browser, we need to know how to use mobile devices other than the ones that we own for personal use.  This means that even Apple "fan-boys" need to get familiar with Android, and those like me that think the size of an iPad Mini is just silly, still need to know how it feels to hold and use one.
 
 In addition to providing the organization broader access to more mobile devices, the Device Bar was also designed to consciously solve pain points that the mobile teams have been battling when testing across devices. 
@@ -41,3 +43,6 @@ In addition to providing the organization broader access to more mobile devices,
 ### Evolving our Mobile Culture
 
 Having access to these devices is just the first step to creating a mobile culture at Cars.com. We hope it inspires conversations about how each feature, button, or advertisement will appear and feel to our mobile users, no matter their device. The more we use mobile, the more it will become second nature to us, and the more Cars.com will become celebrated for its mobile friendliness.  Cars.com employees can now come to the bar and give it a try for testing or just get familiar with what the Mobile Applications Team is up to.
+
+
+[deviceBar]: https://raw.githubusercontent.com/carsdotcom/carsdotcom.github.io/master/images/MobileBar.png
