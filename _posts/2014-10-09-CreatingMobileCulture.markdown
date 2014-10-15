@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Creating a Mobile Culture at Cars.com"
 date:   2014-10-09   11:32:42
 ---
