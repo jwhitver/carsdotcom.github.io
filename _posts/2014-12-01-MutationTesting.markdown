@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Mutation Testing – 100% code coverage isn’t good enough"
+title:  "Mutation Testing - 100% code coverage isn't good enough"
 date:   2014-12-01   11:32:42
 
 ---
 *by Jacob Whitver, Lead Developer, Shared Services*
 
-Unit testing has many benefits to your day to day coding.  Unit tests document assumptions that were made when the code was written, they help you make sure that your edits haven't broken the code, and if using TDD – unit tests help write cleaner code.
+Unit testing has many benefits to your day to day coding.  Unit tests document assumptions that were made when the code was written, they help you make sure that your edits haven't broken the code, and if using TDD - unit tests help write cleaner code.
 
-Code coverage is a metric commonly used to gauge unit test quality.  Code coverage is reported in Sonar as a key metric of code quality.  While code coverage is a good metric – it might fall short in reporting actual unit test effectiveness when dealing with complex methods.
+Code coverage is a metric commonly used to gauge unit test quality.  Code coverage is reported in Sonar as a key metric of code quality.  While code coverage is a good metric - it might fall short in reporting actual unit test effectiveness when dealing with complex methods.
 
 In this blog post I will present Mutation Testing as a way to increase your unit test effectiveness and show you how to install and run PIT against your unit tests.  This allows for your unit tests to have a higher probability of catching issues introduced during your day to day development or refactoring.  This also helps you to write better unit tests which produce better quality code.
 
@@ -24,7 +24,7 @@ I wrote unit tests for this example and used EclEmma to verify code coverage.  I
 The issue with relying on code coverage alone is that just because a line of code was hit during the unit test execution, it doesn't necessarily mean that all lines were verified as being executed during the test.  When a method has side effects, a unit test verifying the output of a method does not verify everything that was executed during a test.  It would be possible for a developer to modify a side effect which could lead to regressions in the code base.  This is one reason many people promote the idea of functional programming which outlaws side effects from methods.  Functional programming has historically been associated with the more academic languages (Scala, Haskell, Lisp, Clojure) but is possible to do in Java (but is somewhat cumbersome).
 
 ###Enter PIT
-PIT is a unit test runner that attempts to locate these unverified lines of code in your unit testing.  PIT first requires that your unit test suite is reporting green – all tests pass.  PIT then takes your compiled byte code and starts modifying it in very specific ways (returning null from a method, changing the sign of an integer, changing a Boolean condition, etc).  These modifications are called mutations and are meant to simulate how your code can be modified by a developer during their day to day development.  After modifying the byte code, PIT then re-executes your unit tests.  If the modification to your code does not produce a failing test, the mutant is said to have survived.
+PIT is a unit test runner that attempts to locate these unverified lines of code in your unit testing.  PIT first requires that your unit test suite is reporting green - all tests pass.  PIT then takes your compiled byte code and starts modifying it in very specific ways (returning null from a method, changing the sign of an integer, changing a Boolean condition, etc).  These modifications are called mutations and are meant to simulate how your code can be modified by a developer during their day to day development.  After modifying the byte code, PIT then re-executes your unit tests.  If the modification to your code does not produce a failing test, the mutant is said to have survived.
 
 ###Installing PIT
 Installing PIT into your STS/Eclipse project is done by using the following update site:
@@ -36,7 +36,7 @@ Follow normal plugin installation.
 ![Installing PIT][InstallingPIT]
 
 ###Running PIT
-To run PIT right click on your test source directory and choose Run As…-> PIT Mutation Test
+To run PIT right click on your test source directory and choose Run As...-> PIT Mutation Test
 
 ![Running PIT][RunningPIT]
 
