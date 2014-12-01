@@ -5,7 +5,7 @@ title:  "Mutation Testing – 100% code coverage isn’t good enough"
 date:   2014-12-01   11:32:42
 
 ---
-*by Jacob Whitver, Developer, Shared Services*
+*by Jacob Whitver, Lead Developer, Shared Services*
 
 Unit testing has many benefits to your day to day coding.  Unit tests document assumptions that were made when the code was written, they help you make sure that your edits haven't broken the code, and if using TDD – unit tests help write cleaner code.
 
