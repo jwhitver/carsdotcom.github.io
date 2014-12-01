@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title:  "Mutation Testing – 100% code coverage isn’t good enough"
 date:   2014-12-01   11:32:42
